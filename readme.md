@@ -2,14 +2,14 @@
 
 > A Monokai theme for Hyper terminal.
 
-![Monokai Remastered for Hyper](./image/screenshot.png)
+![Monokai Remastered for Hyper](./image/screenshot-example-theme.png.png)
 
 ## Install
 
 Add `hyper-monokai-remaster` to the plugins list in your `~/.hyper.js` config file.
 
 ```js
-plugins: ['hyper-monokai-remaster']
+plugins: ["hyper-monokai-remaster"];
 ```
 
 ## License
