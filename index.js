@@ -23,6 +23,18 @@ const colors = {
 	yellow: "#FD971F",
 };
 
+const backgroundOpacity = {
+	opacity: 0.95,
+	useCustomAcrylic: true,
+	color: "#000000",
+};
+
+exports.onWindow = (browserWindow) => {
+	browserWindow.setVibrancy("dark");
+	browserWindow.setOpacity(backgroundOpacity.opacity);
+	browserWindow.setBackgroundColor(backgroundOpacity.color);
+};
+
 exports.decorateConfig = (config) => {
 	return Object.assign({}, config, {
 		backgroundColor,
