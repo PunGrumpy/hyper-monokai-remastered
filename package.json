@@ -1,0 +1,22 @@
+{
+  "name": "hyper-monokai-remaster",
+  "version": "0.1.0",
+  "description": "A remaster of the Monokai theme for Hyper",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "hyperterm",
+    "hyperterm-monokai",
+    "monokai",
+    "theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Noppakorn Kaewsalabnil",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
