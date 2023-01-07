@@ -2,7 +2,7 @@
 
 > A Monokai theme for Hyper terminal.
 
-![Monokai Remastered for Hyper](./image/screenshot-example-theme.png.png)
+![Monokai Remastered for Hyper](./image/screenshot-example-theme.png)
 
 ## Install
 
