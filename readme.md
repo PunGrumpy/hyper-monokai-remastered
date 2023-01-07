@@ -6,10 +6,10 @@
 
 ## Install
 
-Add `hyper-monokai-remaster` to the plugins list in your `~/.hyper.js` config file.
+Add `hyper-monokai-remastered` to the plugins list in your `~/.hyper.js` config file.
 
 ```js
-plugins: ["hyper-monokai-remaster"];
+plugins: ["hyper-monokai-remastered"];
 ```
 
 ## License

@@ -1,6 +1,6 @@
 {
 	"name": "hyper-monokai-remastered",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "A remastered of the Monokai theme for Hyper",
 	"main": "index.js",
 	"keywords": [
