@@ -6,7 +6,7 @@
 
 ## Install
 
-<!-- Unenable because I don't publish this plugin to npm yet. -->
+<!-- Unable because I don't publish this plugin to npm yet. -->
 
 <!-- Add `hyper-monokai-remaster` to the plugins list in your `~/.hyper.js` config file.
 
