@@ -1,18 +1,19 @@
 {
-	"name": "hyper-monokai-remaster",
+	"name": "hyper-monokai-remastered",
 	"version": "0.1.0",
-	"description": "A remaster of the Monokai theme for Hyper",
+	"description": "A remastered of the Monokai theme for Hyper",
 	"main": "index.js",
 	"keywords": [
 		"hyper",
 		"hyperterm",
 		"hyperterm-monokai",
 		"monokai",
-		"theme"
+		"theme",
+		"monokai-remastered"
 	],
 	"repository": {
 		"type": "git",
-		"url": "git@github.com:PunGrumpy/hyper-monokai-remaster.git"
+		"url": "git@github.com:PunGrumpy/hyper-monokai-remastered.git"
 	},
 	"author": "Noppakorn Kaewsalabnil",
 	"license": "MIT",
