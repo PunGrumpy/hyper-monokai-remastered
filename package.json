@@ -1,14 +1,13 @@
 {
 	"name": "hyper-monokai-remastered",
-	"version": "0.1.1",
+	"version": "0.1.2",
 	"description": "A remastered of the Monokai theme for Hyper",
 	"main": "index.js",
 	"keywords": [
-		"hyper",
-		"hyperterm",
-		"hyperterm-monokai",
-		"monokai",
 		"theme",
+		"hyper",
+		"hyper-theme",
+		"monokai",
 		"monokai-remastered"
 	],
 	"repository": {
